@@ -1,0 +1,16 @@
+@import '../styles/styles.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: $spacing-6;
+
+  .field {
+    margin-bottom: $spacing-1;
+  }
+
+  .error-text {
+    color: $color-danger;
+    padding-top: $spacing-1;
+  }
+}
