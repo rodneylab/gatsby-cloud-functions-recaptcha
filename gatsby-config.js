@@ -12,6 +12,9 @@ const maxImageWidth = 672;
 const website = require('./config/website');
 
 module.exports = {
+  flags: {
+    FUNCTIONS: true,
+  },
   siteMetadata: {
     siteLanguage: website.siteLanguage,
     siteTitle: website.siteTitle,
