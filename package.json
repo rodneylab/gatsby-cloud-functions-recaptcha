@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-climate",
+  "name": "gatsby-cloud-functions-recaptcha",
   "private": true,
-  "description": "A lightweight starter for a fast mdx Gatsby 3 blog site",
+  "description": "A demo site for using Gatsby Cloud Functions",
   "version": "0.1.0",
   "license": "BSD-3-Clause",
   "keywords": [
@@ -71,7 +71,7 @@
     "@testing-library/cypress": "^7.0.6",
     "autoprefixer": "^10.2.6",
     "browserslist": "^4.16.6",
-    "cypress": "^7.4.0",
+    "cypress": "^7.5.0",
     "cypress-axe": "^0.12.2",
     "eslint": "^7.28.0",
     "eslint-config-airbnb": "^18.2.1",
